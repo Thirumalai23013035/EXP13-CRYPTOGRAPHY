@@ -36,7 +36,7 @@ To implement a Message Authentication Code (MAC) using a cryptographic hash func
 ##  PROGRAM:
 
 ```
-exp 13
+
 #include <stdio.h>
 #include <string.h>
 
